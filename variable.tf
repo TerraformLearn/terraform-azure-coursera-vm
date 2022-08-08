@@ -22,7 +22,7 @@ variable "ipaddressname" {
   type = string
 }
 
-variable "mynsg" {
+variable "nsgname" {
     type = string
   
 }
