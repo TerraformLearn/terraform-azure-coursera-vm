@@ -21,3 +21,8 @@ variable "subnetname" {
 variable "ipaddressname" {
   type = string
 }
+
+variable "mynsg" {
+    type = string
+  
+}
